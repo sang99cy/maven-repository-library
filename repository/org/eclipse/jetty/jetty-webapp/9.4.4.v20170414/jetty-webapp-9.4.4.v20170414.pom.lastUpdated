@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 24 00:01:19 ICT 2021
+http\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:pom\:9.4.4.v20170414 from/to spring-snapshot (http\://repo.spring.io/libs-snapshot)\: Transfer failed for http\://repo.spring.io/libs-snapshot/org/eclipse/jetty/jetty-webapp/9.4.4.v20170414/jetty-webapp-9.4.4.v20170414.pom 308 Permanent Redirect
+@default-central-http\://repo.maven.apache.org/maven2/.lastUpdated=1640278878477
+@default-spring-milestone-http\://repo.spring.io/libs-milestone/.lastUpdated=1640278879382
+@default-spring-snapshot-http\://repo.spring.io/libs-snapshot/.lastUpdated=1640278879827
+@default-spring-release-http\://repo.spring.io/libs-release/.lastUpdated=1640278878926
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:pom\:9.4.4.v20170414 from/to central (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-webapp/9.4.4.v20170414/jetty-webapp-9.4.4.v20170414.pom 501 HTTPS Required
+http\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:pom\:9.4.4.v20170414 from/to spring-milestone (http\://repo.spring.io/libs-milestone)\: Transfer failed for http\://repo.spring.io/libs-milestone/org/eclipse/jetty/jetty-webapp/9.4.4.v20170414/jetty-webapp-9.4.4.v20170414.pom 308 Permanent Redirect
+http\://repo.spring.io/libs-release/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:pom\:9.4.4.v20170414 from/to spring-release (http\://repo.spring.io/libs-release)\: Transfer failed for http\://repo.spring.io/libs-release/org/eclipse/jetty/jetty-webapp/9.4.4.v20170414/jetty-webapp-9.4.4.v20170414.pom 308 Permanent Redirect

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 12:57:16 ICT 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1636783036240
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.55.Final from/to central (https\://repo.maven.apache.org/maven2)\: No connector factories available

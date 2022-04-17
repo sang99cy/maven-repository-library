@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:34:29 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643045669776
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643045666193
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643045668753
+https\://repo.spring.io/snapshot/.lastUpdated=1643045667153
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.slf4j\:jul-to-slf4j\:pom\:1.7.25 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.pom 502 Bad Gateway

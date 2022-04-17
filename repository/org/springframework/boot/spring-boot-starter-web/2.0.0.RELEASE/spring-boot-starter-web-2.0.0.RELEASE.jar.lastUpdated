@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:53:08 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643046788303
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:jar\:2.0.0.RELEASE from/to spring-milestone (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-web/2.0.0.RELEASE/spring-boot-starter-web-2.0.0.RELEASE.jar
+https\://repo.spring.io/snapshot/.error=
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1643046520378
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643046723009
+https\://repo.spring.io/snapshot/.lastUpdated=1643046614972
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:jar\:2.0.0.RELEASE from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/springframework/boot/spring-boot-starter-web/2.0.0.RELEASE/spring-boot-starter-web-2.0.0.RELEASE.jar 502 Bad Gateway

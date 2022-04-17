@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:47:20 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643046440160
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643046374296
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact com.sun.faces\:jsf-impl\:pom\:2.2.9 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/com/sun/faces/jsf-impl/2.2.9/jsf-impl-2.2.9.pom
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1643046395379
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643046437464
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact com.sun.faces\:jsf-impl\:pom\:2.2.9 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/com/sun/faces/jsf-impl/2.2.9/jsf-impl-2.2.9.pom

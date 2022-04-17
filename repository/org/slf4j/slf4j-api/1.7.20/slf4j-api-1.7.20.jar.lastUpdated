@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 24 00:02:04 ICT 2021
+http\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.20 from/to spring-snapshot (http\://repo.spring.io/libs-snapshot)\: Transfer failed for http\://repo.spring.io/libs-snapshot/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar 308 Permanent Redirect
+@default-central-http\://repo.maven.apache.org/maven2/.lastUpdated=1640278901065
+@default-spring-milestone-http\://repo.spring.io/libs-milestone/.lastUpdated=1640278923163
+@default-spring-snapshot-http\://repo.spring.io/libs-snapshot/.lastUpdated=1640278924148
+@default-spring-release-http\://repo.spring.io/libs-release/.lastUpdated=1640278922151
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.20 from/to central (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar 501 HTTPS Required
+http\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.20 from/to spring-milestone (http\://repo.spring.io/libs-milestone)\: Transfer failed for http\://repo.spring.io/libs-milestone/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar 308 Permanent Redirect
+http\://repo.spring.io/libs-release/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.20 from/to spring-release (http\://repo.spring.io/libs-release)\: Transfer failed for http\://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar 308 Permanent Redirect

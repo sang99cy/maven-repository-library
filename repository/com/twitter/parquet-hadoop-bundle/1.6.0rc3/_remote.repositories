@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:05:17 ICT 2021
+parquet-hadoop-bundle-1.6.0rc3.jar>central=
+parquet-hadoop-bundle-1.6.0rc3-sources.jar>central=
+parquet-hadoop-bundle-1.6.0rc3.pom>central=

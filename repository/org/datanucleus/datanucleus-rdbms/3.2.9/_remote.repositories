@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:05:29 ICT 2021
+datanucleus-rdbms-3.2.9.jar>central=
+datanucleus-rdbms-3.2.9-sources.jar>central=
+datanucleus-rdbms-3.2.9.pom>central=

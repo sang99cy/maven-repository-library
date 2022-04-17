@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:40:04 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643046004408
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643046001629
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643046003708
+https\://repo.spring.io/snapshot/.lastUpdated=1643046002471
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:5.2.14.Final from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final.pom 502 Bad Gateway

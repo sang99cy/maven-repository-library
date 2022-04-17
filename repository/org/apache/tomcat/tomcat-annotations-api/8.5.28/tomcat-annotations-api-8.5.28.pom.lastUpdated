@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:37:24 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643045844862
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643045841918
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643045844195
+https\://repo.spring.io/snapshot/.lastUpdated=1643045843063
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.apache.tomcat\:tomcat-annotations-api\:pom\:8.5.28 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/apache/tomcat/tomcat-annotations-api/8.5.28/tomcat-annotations-api-8.5.28.pom 502 Bad Gateway

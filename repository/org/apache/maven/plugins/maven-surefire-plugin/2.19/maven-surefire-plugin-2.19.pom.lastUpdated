@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 24 00:02:05 ICT 2021
+@default-central-http\://repo.maven.apache.org/maven2/.lastUpdated=1640276393111
+@default-spring-release-http\://repo.spring.io/libs-release/.lastUpdated=1640278925258
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.19 from/to central (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.pom 501 HTTPS Required
+http\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.19 from/to spring-release (http\://repo.spring.io/libs-release)\: Transfer failed for http\://repo.spring.io/libs-release/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.pom 308 Permanent Redirect

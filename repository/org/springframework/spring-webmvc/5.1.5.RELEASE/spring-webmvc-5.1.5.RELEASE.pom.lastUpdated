@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 20 21:32:33 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1642689153513
+https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/.error=
+http\://repository.primefaces.org/.error=Could not transfer artifact org.springframework\:spring-webmvc\:pom\:5.1.5.RELEASE from/to prime-repo (http\://repository.primefaces.org)\: Transfer failed for http\://repository.primefaces.org/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.pom
+https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/.lastUpdated=1642689130567
+@default-prime-repo-http\://repository.primefaces.org/.lastUpdated=1642689151983

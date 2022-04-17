@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:05:27 ICT 2021
+datanucleus-core-3.2.10-sources.jar>central=
+datanucleus-core-3.2.10.jar>central=
+datanucleus-core-3.2.10.pom>central=

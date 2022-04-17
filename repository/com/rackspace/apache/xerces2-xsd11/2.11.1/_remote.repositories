@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:04:48 ICT 2021
+xerces2-xsd11-2.11.1.jar>central=
+xerces2-xsd11-2.11.1-sources.jar>central=
+xerces2-xsd11-2.11.1.pom>central=

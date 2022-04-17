@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:06:16 ICT 2021
+zookeeper-3.4.6.pom>central=
+zookeeper-3.4.6.jar>central=
+zookeeper-3.4.6-sources.jar>central=

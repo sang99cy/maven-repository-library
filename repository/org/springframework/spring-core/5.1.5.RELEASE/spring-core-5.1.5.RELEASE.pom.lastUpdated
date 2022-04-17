@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 20 21:33:35 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1642689215186
+https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:5.1.5.RELEASE from/to captcha (https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/)\: Transfer failed for https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.pom
+http\://repository.primefaces.org/.error=
+@default-captcha-https\://git.captcha.com/botdetect-java-captcha.git/blob_plain/HEAD\:/.lastUpdated=1642689179066
+http\://repository.primefaces.org/.lastUpdated=1642689183241

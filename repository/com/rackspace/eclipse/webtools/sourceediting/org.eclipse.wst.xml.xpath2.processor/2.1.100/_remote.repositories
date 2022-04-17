@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 13 14:04:50 ICT 2021
+org.eclipse.wst.xml.xpath2.processor-2.1.100.pom>central=
+org.eclipse.wst.xml.xpath2.processor-2.1.100.jar>central=
+org.eclipse.wst.xml.xpath2.processor-2.1.100-sources.jar>central=

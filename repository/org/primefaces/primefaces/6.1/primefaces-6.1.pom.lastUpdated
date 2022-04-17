@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:47:46 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643046466330
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643046447494
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643046465095
+https\://repo.spring.io/snapshot/.lastUpdated=1643046448400
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.primefaces\:primefaces\:pom\:6.1 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/primefaces/primefaces/6.1/primefaces-6.1.pom 502 Bad Gateway

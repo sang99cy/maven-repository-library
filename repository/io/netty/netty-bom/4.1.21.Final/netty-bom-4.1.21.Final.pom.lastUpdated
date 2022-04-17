@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:32:53 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643045573971
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643045571538
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643045573333
+https\://repo.spring.io/snapshot/.lastUpdated=1643045572444
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.21.Final from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-bom/4.1.21.Final/netty-bom-4.1.21.Final.pom 502 Bad Gateway

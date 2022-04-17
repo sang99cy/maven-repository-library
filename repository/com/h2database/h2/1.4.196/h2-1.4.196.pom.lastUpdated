@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 25 00:41:44 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643046104181
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1643046056307
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact com.h2database\:h2\:pom\:1.4.196 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/com/h2database/h2/1.4.196/h2-1.4.196.pom
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1643046077358
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1643046103151
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact com.h2database\:h2\:pom\:1.4.196 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/com/h2database/h2/1.4.196/h2-1.4.196.pom 502 Bad Gateway
